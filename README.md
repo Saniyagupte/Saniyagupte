@@ -7,7 +7,7 @@
 
 ## 💻 **About Me**
 
-Currently in my **final year** of **B.E. Engineering in Information Technology** at **Savitribai Phule Pune University**.  
+Currently in my **pre final year** of **B.E. Engineering in Information Technology** at **Savitribai Phule Pune University**.  
 I’m passionate about exploring different domains of technology and have worked on projects related to **AI/ML**, **web development**, **mobile apps**, and **blockchain**.
 
 ---
