@@ -25,8 +25,7 @@ I’m passionate about exploring different domains of technology and have worked
 
 ## 💬 **Let's Connect**
 
-📧 **Contact**: [saniyamilindgupte@gmail.com](mailto:saniyamilindgupte@gmail.com)  
-📞 **Phone**: +91 8698748211  
+📧 **Contact**: [saniyamilindgupte@gmail.com](mailto:saniyamilindgupte@gmail.com)   
 🔗 [LinkedIn](https://www.linkedin.com/in/saniya-gupte-7a7585256/) | [GitHub](https://github.com/Saniyagupte) | [LeetCode](https://leetcode.com/u/SaniyaGupte/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/wordlesshnti/)
 
 ---
