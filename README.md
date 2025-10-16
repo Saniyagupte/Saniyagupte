@@ -18,7 +18,7 @@ I’m passionate about exploring different domains of technology and have worked
 - **Web Development**: HTML, CSS, React.js, Tailwind CSS, Bootstrap  
 - **ML/DL Libraries**: Scikit-learn, Matplotlib, NumPy, Pandas, Seaborn, TensorFlow, Keras  
 - **Backend & Databases**: Node.js, Django, MySQL, MongoDB, PostgreSQL, Firebase, Oracle DB  
-- **Cloud Services**: AWS, Google Cloud  
+- **Cloud Services**: Google Cloud  
 - **Tools & Technologies**: Anaconda, Jupyter Notebook, Visual Studio, Postman, Git  
 
 ---
