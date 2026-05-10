@@ -1,6 +1,6 @@
 #  Hi, I'm **Saniya Gupte**! 
 
-✨ A passionate **Tech Innovator** with a love for innovation inorder to solve real world problems.  
+✨ A passionate **Tech Innovator** with a love for innovation in order to solve real world problems.  
 ✨ Exploring the world of software development, machine learning, and problem-solving through code!
 
 ---
